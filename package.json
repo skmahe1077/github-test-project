@@ -8,9 +8,6 @@
     "build": "vite build",
     "preview": "vite preview",
     "test": "vitest run"
-    "password" : "abdhdnjfn"
-    "aws_access_key" : "cssnsncc"
-    "aws_secret_key" : "scbsjcsmbsjbssnskn"
   },
   "dependencies": {
     "react": "^18.2.0",
